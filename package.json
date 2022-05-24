@@ -1,0 +1,31 @@
+{
+  "name": "passport-osufst",
+  "description": "OSUFST authentication strategy for Passport",
+  "version": "1.0.1",
+  "keywords": [
+    "passport",
+    "osufst",
+    "auth",
+    "authn",
+    "authentication",
+    "identity",
+    "edir",
+    "edirectory"
+  ],
+  "homepage": "https://github.com/osufst/passport-osufst",
+  "bugs": {
+    "url": "https://github.com/osufst/passport-osufst/issues",
+    "email": "aaron.bean@beardon.com"
+  },
+  "author": {
+    "name": "Aaron Bean",
+    "email": "aaron.bean@beardon.com",
+    "url": "https://github.com/aaronbean"
+  },
+  "main": "./lib/passport-osufst",
+  "dependencies": {
+    "passport-oauth": "^1.0.0",
+    "passport-openid": "^0.4.0",
+    "pkginfo": "^0.4.1"
+  }
+}
